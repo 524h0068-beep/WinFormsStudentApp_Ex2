@@ -16,5 +16,11 @@ namespace WinFormsStudentApp_Ex2
         {
             InitializeComponent();
         }
+        // Initial commit of Windows Forms Student App
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
